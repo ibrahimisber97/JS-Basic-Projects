@@ -51,6 +51,12 @@ body{
     overflow: hidden;
     transition: max-height 1s;
 }
+.imgBox{
+    display: inline-block;
+    width: 150px;
+    position: relative;
+    left: 27%;
+}
 #imgBox img{
     width: 100%;
     padding: 10px;
