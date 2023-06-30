@@ -5,17 +5,18 @@
     box-sizing: border-box;
 }
 body{
-    background: #222;
+    background: #012E40;
 }
 .card{
-    width: 90%;
-    max-width: 470px;
+    width: 100%;
+    max-width: 540px;
     background: linear-gradient(135deg , #00feba , #5b548a);
     color: #fff;
-    margin: 100px auto 0;
+    margin: 100px auto 20px;
     border-radius: 20px;
-    padding: 40px 35px;
+    padding: 40px 35px 70px;
     text-align: center;
+    
 }
 .search{
     width: 100%;
@@ -81,7 +82,7 @@ body{
     font-size: 28px;
     margin-top: -6px;
 }
-.wheather{
+.weather{
     display: none;
 }
 .error{
