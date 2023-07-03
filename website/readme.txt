@@ -1,1 +1,1 @@
-An example of a site that has dark mode and a preloader
+Example of a site with a photo effect, dark mode, and preloader
